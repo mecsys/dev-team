@@ -1,4 +1,4 @@
-# mecsys-dev-team
+# dev-team
 
-https://github.com/fluxcd/flux2-multi-tenancy/
+This branch serves as a example of how to structure a tenant Git repository.
 
